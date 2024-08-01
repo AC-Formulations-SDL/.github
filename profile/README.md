@@ -1,4 +1,4 @@
-## Hi there 👋
+## Accelerate24 Posters
 
 <!--
 
