@@ -13,3 +13,5 @@
 ![Incorporating IoT Devices and Services to a Liquid Handling Robot: Designing a Closed-Loop Platform for Planning Experiments and Automating Data Collection](/profile/AC_Conference_Poster_Sheldon_Mei_1.jpg)
 
 ![In Pursuit of Low-Cost Lab Automation: Designing Frugal Twins by Extending Capabilities of Liquid Handlers and 3D Printers](/profile/POSTER.jpg)
+
+![Advancing Hydrogel Formulation Through Automation: Integrating Automation and Real-Time Imaging for Enhanced Crosslinking Control](/profile/2024_Accelerated_Conference.jpg)
