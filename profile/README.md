@@ -11,3 +11,5 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 ![Incorporating IoT Devices and Services to a Liquid Handling Robot: Designing a Closed-Loop Platform for Planning Experiments and Automating Data Collection](/profile/AC_Conference_Poster_Sheldon_Mei_1.jpg)
+
+![In Pursuit of Low-Cost Lab Automation: Designing Frugal Twins by Extending Capabilities of Liquid Handlers and 3D Printers](/profile/POSTER.jpg)
