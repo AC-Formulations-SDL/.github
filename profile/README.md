@@ -16,5 +16,4 @@
 
 ![Advancing Hydrogel Formulation Through Automation: Integrating Automation and Real-Time Imaging for Enhanced Crosslinking Control](/profile/2024_Accelerated_Conference.jpg)
 
-![Modular Tools for Self-Driving Workflows: Integrating Machine Learning andAutomated Synthesis and Characterization to Accelerate Drug Formulations Development]
-](/profile/Accelerate24_HuangWang_Poster.jpg)
+![Modular Tools for Self-Driving Workflows: Integrating Machine Learning andAutomated Synthesis and Characterization to Accelerate Drug Formulations Development](/profile/Accelerate24_HuangWang_Poster.jpg)
