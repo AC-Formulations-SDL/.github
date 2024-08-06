@@ -14,6 +14,6 @@
 
 ![In Pursuit of Low-Cost Lab Automation: Designing Frugal Twins by Extending Capabilities of Liquid Handlers and 3D Printers](/profile/POSTER.jpg)
 
-![Advancing Hydrogel Formulation Through Automation: Integrating Automation and Real-Time Imaging for Enhanced Crosslinking Control](/profile/2024_Accelerated_Conference.jpg)
+![Advancing Hydrogel Formulation Through Automation: Integrating Automation and Real-Time Imaging for Enhanced Crosslinking Control](/profile/2024_Accelerated_Conference_MN.jpg)
 
 ![Modular Tools for Self-Driving Workflows: Integrating Machine Learning andAutomated Synthesis and Characterization to Accelerate Drug Formulations Development](/profile/Accelerate24_HuangWang_Poster_v2.jpg)
